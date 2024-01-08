@@ -1,4 +1,4 @@
-# Email-Spam-Classifier-Using-Naive-Bayes
+# Inbox_Cleaner-Using-Naive-Bayes
 
 Naive Bayes is a supervised classification technique based on Bayes' Theorem with an assumption of independence among predictors. That is, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 
